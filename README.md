@@ -1,7 +1,7 @@
 # hope-hackathon
 Our project identifies crimes that happens in certain locations by different races
 Our app is going to be a drop down that displays different races and when you click on one title give information on the race like population total crimes committed and specific crimes committed as well
-The external api pulls information on crimes committed in mecklenburg county and displays the name of the crime and how many have been committed in the past year
+The external api pulls information on crimes committed in mecklenburg county and displays the name of the crime and how many have been committed in the past year. The API we used was from the FBI criminal database and you can access it here https://crime-data-explorer.fr.cloud.gov/api
 
 # How to use our app
 to run our app you have to clone this repo and add the node modules to your folder, also you will need to create a .env file and add our app key which is API_KEY=RTbfCS61WOM1F6IUmgZaNSV6ALHKcYUTagJxi5m4  go into the terminal and type node server.js and run the home.html file.
